@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WatchStore",
+    "\\WatchStore\\WatchStore",
+    "\\WatchStore\\WatchStore\\Areas",
+    "\\WatchStore\\WatchStore\\Areas\\Admin",
+    "\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers"
+  ],
+  "SelectedNode": "\\WatchStore\\WatchStore\\Areas\\Admin\\Controllers\\TopicController.cs",
+  "PreviewInSolutionExplorer": false
+}
